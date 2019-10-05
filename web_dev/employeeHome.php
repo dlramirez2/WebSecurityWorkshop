@@ -1,6 +1,5 @@
 <?php include('header.php'); ?>
     <main>
-        #PEPEGA
         <section class="container black-text">
             <h4 class="center white-text">Welcome to the Employee Center Home Page!</h4>
             <form class="card blue-grey darken-1"  method='post'>
