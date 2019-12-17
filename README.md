@@ -1,4 +1,4 @@
-# WebSecurityWorkshop
+# Intro to Web Application Security Workshop
 
 ## Background
 
